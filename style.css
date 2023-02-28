@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cont1{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+nav{
+    display: flex;
+    gap: 40px;
+    width: 20%;
+    margin-left:30%;
+    margin-top: -3%;
+    font-size: larger;
+}
+.home{
+    color: blue;
+}
+.src{
+    padding-top: 3%;
+    padding-left: 3%;
+}
+.text{
+    width: 20%;
+    height: 40vh;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.get{
+    font-weight: lighter;
+    font-size: 35px;
+}
+.image{
+    margin-top: -25%;
+    width: 30%;
+    height: 40vh;
+    margin-left: 55%;
+}
+.img{
+    width: 100%;
+    height: 60vh;
+}
+i{
+    color: rgb(132, 0, 255);
+}
+.ikon{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: space-around
+}
+.ins{
+    font-size: large;
+}
+a{
+    text-decoration: none;
+}
+.cont2{
+    width: 100%;
+    height: 100vh;
+    margin-top: 5%;
+    display: flex;
+}
+.im{
+    width: 23%;
+    height: 42vh;
+    margin-top: 17%;
+    margin-left: 10%;
+}
+.imgg{
+    width: 100%;
+    height: 50vh;
+}
+.text2{
+    width: 20%;
+    height: 40vh;
+    margin-top: -9%;
+    margin-left: 55%;
+}
+.inss{
+    font-size: 20px;
+}
+.app{
+    color: rgb(132, 0, 255);
+}
+.gp{
+    color: rgb(132, 0, 255);
+}
+.cont3{
+    width: 100%;
+    height: 80vh;
+    background-color: goldenrod;
+}
+.How{
+    text-align: center;
+    font-weight: lighter;
+}
+.kart{
+    display: flex;
+    position: relative;
+    gap: 100px;
+    margin-left: 10%;
+    margin-bottom: 3%;
+}
+.kart1{
+    text-align: center;
+    width: 25%;
+    height: 50vh;
+    border: 1px solid rgb(198, 196, 196);
+    border-top: 13px solid  rgb(132, 0, 255);;
+}
+.kart2{
+    text-align: center;
+    width: 25%;
+    height: 50vh;
+    border: 1px solid rgb(183, 180, 180);
+    border-top: 13px solid  orange;
+
+}
+.kart3{
+    text-align: center;
+    width: 25%;
+    height: 50vh;
+    border: 1px solid rgb(171, 164, 164);
+    border-top: 13px solid rgb(0, 255, 179);;
+
+}
+.str{
+    position: absolute;
+    top: 200%;
+    left: 34%;
+}
+.strr{
+    position: absolute;
+    top: 200%;
+    left: 64%;
+}
+.sums{
+    margin-top: 10%;
+}
+.set{
+    text-align: center;
+    font-size: larger;
+}
+.Download{
+    padding: 5%;
+    font-size: larg;
+}
+.Downloadd{
+    padding: 5%;
+    font-size: 15px;
+}
+.container4{
+    width: 100%;
+    height: 40vh;
+    padding-bottom: 5%;
+    background-color: rgb(0, 255, 179);;
+}
+.text4{
+    width: 75%;
+    text-align: center;
+}
+.GET{
+    color: white;
+    padding-top: 120px;
+    padding-left: 400px;
+}
+.ikonka{
+    display: flex;
+    gap: 10px;
+    margin-left: 58%;
+}
+.finish{
+    padding-top: 5%;
+    padding-left: 10%;
+    width: 100%;
+    height: 30vh;
+    display: flex;
+}
+.fin1{
+    width: 20%;
+}
+.fin2{
+    width: 20%;
+    font-size: larger;
+}
+.fin3{
+    width: 20%;
+    font-size: larger;
+}
+.fin4{
+    width: 20%;
+    font-size: larger;
+}
+ul li{
+    list-style-type: none;
+}
